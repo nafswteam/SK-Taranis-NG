@@ -1,5 +1,5 @@
 # Taranis NG
-
+#fork for NCCCSIRT
 Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and
 organisations. It allows osint gathering, analysis and reporting; team-to-team
 collaboration; and contains a user portal for simple self asset management.
